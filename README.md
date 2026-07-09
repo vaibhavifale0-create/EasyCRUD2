@@ -9,7 +9,7 @@ Installing MariaDB on Ubntu
 ```shell
 apt update && apt install mariadb-server -y
 ```
-
+i needed to changes
 ## 2. Securing MariaDB
 
 Open the Command Prompt as Administrator and run the following command to secure your installation:
